@@ -16,7 +16,7 @@ This is by no means complete.
 
 ## Soccer 
 Note: often football is a synonym which might confuse Americans
-
+- [roboflow overview](https://universe.roboflow.com/browse/sports/soccer)
 
 
 ## Yoga
@@ -33,3 +33,13 @@ Note: often football is a synonym which might confuse Americans
 ## Gym Machine Images
 Something entirely different
 - [gym equipment database](https://universe.roboflow.com/bangkit-academy-ognnb/gym-equipment-object-detection)
+
+
+2do:
+adopt scheme as follows:
+- name + link
+  - short description
+  - annotations: tbd
+  - reference: tbd
+  - available: tbd
+
